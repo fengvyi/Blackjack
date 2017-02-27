@@ -12,7 +12,7 @@ The player or players are dealt a two-card hand and add together the value of th
 ##Table rules
 * Single deck
 * Basic play only(Hit/Stand)
-  * Hit:Take another card from the dealer.
+  * Hit: Take another card from the dealer.
   * Stand: Take no more cards, also known as "stand pat", "stick", or "stay".
   
 ##How to play
