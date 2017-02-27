@@ -135,7 +135,7 @@ Dealer Bust, Player Wins!
 
 ```
 #TODO
-Add Double, Split actions to make it more fun!
+Add money system and Double, Split actions to make it more fun!
 * Double:The player is allowed to increase the initial bet by up to 100% 
  in exchange for committing to stand after receiving exactly one more card.
 
