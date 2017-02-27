@@ -134,4 +134,11 @@ Dealer Bust, Player Wins!
 Dealer Bust, Player Wins!
 
 ```
+#TODO
+Add Double, Split actions to make it more fun!
+* Double:The player is allowed to increase the initial bet by up to 100% 
+ in exchange for committing to stand after receiving exactly one more card.
 
+* Split: If the first two cards of a hand have the same value, the player can split 
+ them into two hands, by moving a second bet equal to the first into an area outside
+ the betting box.
