@@ -43,7 +43,7 @@ Return      : None.
 void shuffler() {
 	srand((unsigned)time(0));
 	for (int i = 0; i < 52; i++) 
-		swap(deck[i], deck[52 * rand() / (RAND_MAX + 1)]);
+		swap(deck[i], deck[rand()%52]);
 	cout << "******Deck Shuffled!******" << endl;
 }
 /* End Function:shuffler ***************************************************/
