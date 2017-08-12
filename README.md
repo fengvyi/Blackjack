@@ -20,7 +20,7 @@ Start, the dealer give each player card face up two cards, give the dealer himse
 When all the initial cards are distributed, if the player gets A and 10 (regardless of the order), they have Black Jack; the next is the normal take the card process: the first non-black Jack players choose to take the card (Hit), the suspension (Stand). In the process of licensing, if the player's card number sum larger than 21, the player lost - called burst out (Bust), the dealer win the bet (regardless of the dealer's cards). If the player did not burst, and decided to Stand, then turn to the next non-black Jack player's choice.
 When all the players' turn end, the dealer opens his cards, and continue to take the card until the sum is not less than 17 (if A, according to the largest and not burst). If the dealer burst, then he lost, the player wins 1 times the bet; otherwise, compare the sum of each player's cards.
 
-# Example
+## Example
 ```
 ******Game Start!******
 deck:
@@ -134,7 +134,7 @@ Dealer Bust, Player Wins!
 Dealer Bust, Player Wins!
 
 ```
-# TODO
+## TODO
 Add money system and Double, Split actions to make it more fun!
 * Double: The player is allowed to increase the initial bet by up to 100% 
  in exchange for committing to stand after receiving exactly one more card.
